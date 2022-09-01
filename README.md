@@ -45,12 +45,12 @@ This was the first project I had really worked with an API and was great experie
 
 Once the semester was over, we were essentially keeping the application live out of pocket for the unversity so we decided to shut it down.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
 - [Mapbox API Documentation](https://docs.mapbox.com) - Definitely helped to look at the documentation to understand how to use the API.
 - [Youtube](https://youtube.com) - Youtube has tons of content using the api so seeing how others developed their apps in their own ways helped.
+
 ## Author
 
 - Website - [Jason Nham](https://www.jasonnham.com)
