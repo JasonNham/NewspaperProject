@@ -1,0 +1,70 @@
+/* this is for the file upload pagee */
+#entries {
+    width: 40%;
+    margin: 0 auto;
+    
+  }
+#entries > div {
+    margin-top: 20px;
+    background:rgb(69,69,69);
+    padding: 12px;
+    border-radius: 4px;
+  }
+#entries > div > h4 {
+    color:white;
+    word-wrap: break-word;
+  }
+  #entries > div > p {
+      color:white;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+  }
+  #entries > div:not(:last-child) {
+    margin-bottom: 8px;
+  }
+
+/* this is for the route display page */
+  #routes {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+  }
+#routes > div {
+    margin-top: 20px;
+    background:rgb(69,69,69);
+    padding: 12px;
+    border-radius: 4px;
+  }
+#routes > div > h4 {
+    color:white;
+    word-wrap: break-word;
+  }
+  #routes > div > p {
+    overflow-wrap: normal;
+      color:white;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+  }
+  #routes > div:not(:last-child) {
+    margin-bottom: 8px;
+  }
+
+  #routes > div > input {
+    text-align:center;
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  }
+
+  @media (min-width: 1200px) {
+    .seven-cols .col-md-1,
+    .seven-cols .col-sm-1,
+    .seven-cols .col-lg-1 {
+      width: 14.285714285714285714285714285714%;
+      *width: 14.285714285714285714285714285714%;
+    }
+  }
+  .dayLabel {
+    font-weight: bolder;
+  }
